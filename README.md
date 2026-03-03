@@ -13,7 +13,7 @@ The project demonstrates fundamental assembly programming concepts, including:
 - Health system implementation
 - Game state control
 
-![Gameplay Screenshot](images/gameplay.png)
+![Gameplay Screenshot](g24/gameplay.png)
 ## How to Play
 
 ### Start the Game
